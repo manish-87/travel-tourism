@@ -1,11 +1,14 @@
 import React from 'react'
+import Footer from './Footer'
+import HeroImg2 from './HeroImg2'
 import Navbar from './Navbar'
 
 const Contact = () => {
   return (
     <div>
       <Navbar/>
-     <h2>This is Contact page</h2>
+      <HeroImg2 heading="Contact Us" text="lets have a chat"/>
+      <Footer/>
     </div>
   )
 }

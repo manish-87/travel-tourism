@@ -1,9 +1,14 @@
 import React from 'react'
+import Footer from './Footer'
+import HeroImg2 from './HeroImg2'
+import Navbar from './Navbar'
 
 const About = () => {
   return (
     <div>
-      <h2>This is about page</h2>
+      <Navbar/>
+      <HeroImg2 heading="About Us"/>
+      <Footer/>
     </div>
   )
 }
