@@ -8,8 +8,9 @@
     max-width: 1140px;
     margin: auto;
     display: grid;
-    grid-template-columns: repeat(3, 5fr);
-    grid-gap: 40px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:40px;
+    
 }
 
 .card{
@@ -52,12 +53,11 @@
     margin: 2rem auto;
 }
 
-@media screen and(max-width:740px) {
+@media screen and (max-width:740px)  {
     .card-container{
-        max-width: 1140px;
+        max-width:70%;
         margin: auto;
        
         grid-template-columns:  1fr;
-        
     }
 }

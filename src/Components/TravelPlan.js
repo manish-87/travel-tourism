@@ -3,14 +3,15 @@ import Footer from './Footer';
 import HeroImg2 from './HeroImg2';
 import Navbar from './Navbar'
 import Pricingcard from './Pricingcard';
-import WorkCard from './WorkCard';
+import Work from './Work';
+
 
 const TravelPlan = () => {
   return (
     <div>
       <Navbar/>
       <HeroImg2 heading="Popular Destinations" text=" Tours give you the opportunity to see a lot, within a time frame. "/>
-      <WorkCard/>
+      <Work/>
       <Pricingcard/>
       <Footer/>
     </div>
