@@ -13,9 +13,7 @@
 ![Screenshot 2023-03-16 185341](https://github.com/user-attachments/assets/a3a41755-8962-4538-8147-95776995e7b6)
 
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -31,8 +29,7 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### `npm run build`
 
